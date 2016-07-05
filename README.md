@@ -6,30 +6,23 @@ A General Assembly Capstone Project - using machine learning techniques to condu
 
 ![alt tag](http://www.trbimg.com/img-573b7188/turbine/la-1463503591-snap-embed-embed/650/650x366)
 
-## Code Example
+## Final Presentation
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+## Python Codes
 
-## Installation
+Check out the entired python code for this project.
 
-Provide code examples and explanations of how to get the project.
+## Project Summary
 
-## API Reference
+In this project, I'm trying to build machine learning models based on Kaggle and SMFTA's data: I came up with WAZE Rider San Francisco Pilot to study features of a carpool modelling and make prdedictions that could help the business.
+Waze is going the corporate route. Its Silicon Valley pilot is starting with more than 25,000 employees of select companies that schlep workers from city and the South Bay. 
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+Kaggle Data
+SFMTA Data
+Commute choice: dataset about carpool desicions, e.g., drive alone, car share, shuttle, uber, public transportation
+Location: information about users location
+Income: total income
 
-## Tests
 
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)

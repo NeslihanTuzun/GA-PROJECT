@@ -20,7 +20,9 @@ In this project, I'm trying to build machine learning models based on Kaggle and
 Waze is going the corporate route. Its Silicon Valley pilot is starting with more than 25,000 employees of select companies that schlep workers from city and the South Bay. 
 
 Kaggle Data
+
 SFMTA Data
+
 Commute choice: dataset about carpool desicions, e.g., drive alone, car share, shuttle, uber, public transportation
 Location: information about users location
 Income: total income

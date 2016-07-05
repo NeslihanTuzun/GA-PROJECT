@@ -4,6 +4,8 @@
 
 A General Assembly Capstone Project - using machine learning techniques to conduct prediction and analysis of waze carpool. The programming language used was Python. 
 
+![alt tag](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwiC_NbHjt3NAhUK2mMKHXKRApUQjRwIBw&url=http%3A%2F%2Fphandroid.com%2F2016%2F05%2F16%2Fwaze-begins-testing-its-carpooling-services-in-san-francisco%2F&psig=AFQjCNEyQizMO2I3YSSUJP--dJQ08z9OfQ&ust=1467835250738832)
+
 ## Code Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.

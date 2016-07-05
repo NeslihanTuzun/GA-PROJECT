@@ -1,8 +1,8 @@
 # GA-PROJECT
 
-## Synopsis
+## Waze Carpool Predictive Analysis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+A General Assembly Capstone Project - using machine learning techniques to conduct prediction and analysis of waze carpool. The programming language used was Python. 
 
 ## Code Example
 

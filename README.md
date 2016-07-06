@@ -1,4 +1,4 @@
-# GA-PROJECT
+# GA-FINAL PROJECT
 
 ## Waze Carpool Predictive Analysis
 

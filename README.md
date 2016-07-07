@@ -8,7 +8,7 @@ A General Assembly Capstone Project - using machine learning techniques to condu
 
 ## Final Presentation
 
-See my [final presentation](http://github.com/github/markup/tree/master/lib/github/commands/rest2html) deck in PDF.
+See my [final presentation](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/presentation.pdf) deck in PDF.
 
 ## Python Codes
 

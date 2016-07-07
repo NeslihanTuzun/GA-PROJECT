@@ -12,7 +12,7 @@ See my [final presentation](http://github.com/github/markup/tree/master/lib/gith
 
 ## Python Codes
 
-Check out the entired [python code](http://github.com/github/markup/tree/master/lib/github/commands/rest2html) for this project.
+Check out the entired [python code](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20TravelDesicionSurvey%20.ipynb) for this project.
 
 ## Project Summary
 

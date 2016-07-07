@@ -12,7 +12,7 @@ A General Assembly Capstone Project - using machine learning techniques to condu
 
 ## Python Codes
 
-Check out the entired python code for this project.
+Check out the entired python code (http://github.com/github/markup/tree/master/lib/github/commands/rest2html) for this project.
 
 ## Project Summary
 

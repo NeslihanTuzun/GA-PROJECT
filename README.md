@@ -12,7 +12,7 @@ See my [final presentation](https://github.com/NeslihanTuzun/GA-PROJECT/blob/mas
 
 ## Python Codes
 
-Check out the entired python code of [income](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20Salaries.ipynb) and [commute choice](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20TravelDesicionSurvey%20.ipynb) for this project.
+Check out the entired python code of [income](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20Salaries.ipynb) and [commute choice](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20TravelDesicionSurvey.ipynb) for this project.
 
 ## Project Summary
 
